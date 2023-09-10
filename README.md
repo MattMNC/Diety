@@ -18,8 +18,9 @@ I found this case challenging and useful to:
 ---------------------------------------------------------------------------------------------------------------------------------
 
 Database Model and Entity Diagrams
-![image](https://github.com/MattMNC/Diety/assets/98954649/7541c9dc-ea64-4832-baf8-4d46ac010322)
-![image](https://github.com/MattMNC/Diety/assets/98954649/46bfa54e-40e2-4387-b0ab-b2d5b0a63d11)
+![image](https://github.com/MattMNC/Diety/assets/98954649/329287d2-aede-4b4f-80f4-26807b11e19e)
+![image](https://github.com/MattMNC/Diety/assets/98954649/92ca7dc2-5ce7-4470-b830-e92835634c76)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
