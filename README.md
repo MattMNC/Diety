@@ -12,7 +12,7 @@ Diety is an app that allows users to keep track of their diet. users can add foo
   
 I found this case challenging and useful to:  
 -develop a database model with various types of entities, keys and relationships  
--develop API controllers that handle all crud operations  
+-develop API controllers that handle all CRUD operations  
 -develop a functional and responsive UI in React
 
 ---------------------------------------------------------------------------------------------------------------------------------
