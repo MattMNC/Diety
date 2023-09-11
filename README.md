@@ -1,6 +1,8 @@
 # Diety
 Diety is my first curricular project.  
 
+Youtube presentation: [https://youtu.be/enaZr6oQvoo](https://youtu.be/enaZr6oQvoo)
+
 Diety is a full stack project composed by:  
 -Frontend: React + TailwindCSS  
 -Backend: C# - ASP .NET 6.0 - Entity Framework  
@@ -24,4 +26,4 @@ Database Model and Entity Diagrams
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-To see a more in depth presentation please [COMING SOON ;)]
+To see a more in depth presentation please see this presentation: [https://youtu.be/enaZr6oQvoo](https://youtu.be/enaZr6oQvoo)https://youtu.be/enaZr6oQvoo
