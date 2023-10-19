@@ -26,4 +26,4 @@ Database Model and Entity Diagrams
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-To see a more in depth presentation please see this video: [https://youtu.be/enaZr6oQvoo](https://youtu.be/enaZr6oQvoo)https://youtu.be/enaZr6oQvoo
+To see a more in depth presentation please see this video: [https://youtu.be/enaZr6oQvoo](https://youtu.be/enaZr6oQvoo)
